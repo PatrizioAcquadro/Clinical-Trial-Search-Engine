@@ -17,7 +17,7 @@ This project presents a novel approach to improving clinical trial searches by i
 
 ### Documentation
 - `IR_Report.pdf`: A comprehensive report detailing the project's objectives, methodology, and outcomes.
-- `Presentation_Group1.pptx`: A PowerPoint presentation summarizing the project highlights and findings.
+- `IR_Presentation.pdf`: A PowerPoint presentation summarizing the project highlights and findings.
 
 ## Installation and Usage
 To set up and use this project, follow these steps:
